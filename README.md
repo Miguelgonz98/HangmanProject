@@ -1,2 +1,2 @@
 # HangmanProject
-Juego del ahorcado desarrollado en Python
+Hangman Game (El Ahorcado) developed in Python
